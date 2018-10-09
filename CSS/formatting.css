@@ -1,0 +1,41 @@
+h1 {
+	color:blue;
+	text-align:center;
+}
+
+img {
+	width:30%;
+	height:20%;
+}
+
+p {
+	font-weight:bold;
+	font-family:Arial;
+}
+
+table {
+	width: 300px;
+	border: ridge violet 6px;
+	margin-left:400px;
+}
+th {
+	padding:5px;
+	width:300px;
+	border:double blue 5px;
+}
+
+td {
+	border: dotted #c0392b 2px;
+	width:300px;
+	text-align:center;
+	font-style:italic;
+}
+
+th:hover {
+	background-color:#00FF00;
+	color: #FF0000;
+}
+
+a:visited {
+	color:greenyellow;
+}
